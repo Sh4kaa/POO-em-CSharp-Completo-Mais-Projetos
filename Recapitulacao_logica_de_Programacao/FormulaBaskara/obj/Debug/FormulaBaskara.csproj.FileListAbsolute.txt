@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Recapitulacao_logica_de_Programacao\FormulaBaskara\bin\Debug\FormulaBaskara.exe.config
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Recapitulacao_logica_de_Programacao\FormulaBaskara\bin\Debug\FormulaBaskara.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Recapitulacao_logica_de_Programacao\FormulaBaskara\bin\Debug\FormulaBaskara.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Recapitulacao_logica_de_Programacao\FormulaBaskara\obj\Debug\FormulaBaskara.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Recapitulacao_logica_de_Programacao\FormulaBaskara\obj\Debug\FormulaBaskara.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Recapitulacao_logica_de_Programacao\FormulaBaskara\obj\Debug\FormulaBaskara.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Recapitulacao_logica_de_Programacao\FormulaBaskara\obj\Debug\FormulaBaskara.pdb
