@@ -21,18 +21,18 @@ namespace exerciciofixacao
             double medida = 53.234567;
 
             Console.WriteLine("Produtos:");
-            Console.WriteLine("{0}, cujo preço é $ {1:f2}", produto1, preco1);
+            Console.WriteLine("{0}, cujo preço é $ {1:f2}", produto1, preco1); // PlaceHolder com casa decimal
             Console.WriteLine("{0} cujo preço é {1:f2}", produto2, preco2);
 
             Console.WriteLine();
 
-            Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e gênero: {genero}");
+            Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e gênero: {genero}"); // interpolação
 
             Console.WriteLine();
 
             Console.WriteLine("Medida com oitro casas decimais: {0:f8}", medida);
             Console.WriteLine("Arredondamento (três casas decimais): {0:f3}", medida);
-            Console.WriteLine("Separador decimal invariant culture: " + medida.ToString("f3", CultureInfo.InvariantCulture));
+            Console.WriteLine("Separador decimal invariant culture: " + medida.ToString("f3", CultureInfo.InvariantCulture)); // concatenação
             Console.WriteLine();
         }
     }
