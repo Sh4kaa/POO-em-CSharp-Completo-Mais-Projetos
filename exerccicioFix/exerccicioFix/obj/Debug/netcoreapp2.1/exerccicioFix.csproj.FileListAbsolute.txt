@@ -1,0 +1,11 @@
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\bin\Debug\netcoreapp2.1\exerccicioFix.deps.json
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\bin\Debug\netcoreapp2.1\exerccicioFix.runtimeconfig.json
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\bin\Debug\netcoreapp2.1\exerccicioFix.runtimeconfig.dev.json
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\bin\Debug\netcoreapp2.1\exerccicioFix.dll
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\bin\Debug\netcoreapp2.1\exerccicioFix.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\obj\Debug\netcoreapp2.1\exerccicioFix.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\obj\Debug\netcoreapp2.1\exerccicioFix.csproj.CoreCompileInputs.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\obj\Debug\netcoreapp2.1\exerccicioFix.AssemblyInfoInputs.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\obj\Debug\netcoreapp2.1\exerccicioFix.AssemblyInfo.cs
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\obj\Debug\netcoreapp2.1\exerccicioFix.dll
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\exerccicioFix\exerccicioFix\obj\Debug\netcoreapp2.1\exerccicioFix.pdb
