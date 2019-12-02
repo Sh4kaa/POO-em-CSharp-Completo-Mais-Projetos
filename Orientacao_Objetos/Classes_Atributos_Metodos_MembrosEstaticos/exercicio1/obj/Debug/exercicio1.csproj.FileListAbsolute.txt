@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\exercicio1\obj\Debug\exercicio1.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\exercicio1\obj\Debug\exercicio1.pdb
