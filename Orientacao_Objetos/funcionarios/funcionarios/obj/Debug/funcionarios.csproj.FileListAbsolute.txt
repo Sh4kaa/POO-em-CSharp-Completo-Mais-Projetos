@@ -1,0 +1,7 @@
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\funcionarios\funcionarios\bin\Debug\funcionarios.exe.config
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\funcionarios\funcionarios\bin\Debug\funcionarios.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\funcionarios\funcionarios\bin\Debug\funcionarios.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\funcionarios\funcionarios\obj\Debug\funcionarios.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\funcionarios\funcionarios\obj\Debug\funcionarios.csproj.CoreCompileInputs.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\funcionarios\funcionarios\obj\Debug\funcionarios.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\funcionarios\funcionarios\obj\Debug\funcionarios.pdb
