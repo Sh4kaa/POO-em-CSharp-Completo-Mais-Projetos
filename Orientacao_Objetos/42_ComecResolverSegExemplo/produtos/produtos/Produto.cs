@@ -9,11 +9,24 @@ namespace produtos
         public string Nome;
         public double Preco;
         public int Quantidade;
+        
 
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
         }
+
+        public void AdicionarProdutos(int quantidade)
+        {
+            Quantidade = Quantidade + quantidade; 
+        }
+
+        public void RemoverProdutos(int quantidade)
+        {
+            Quantidade = Quantidade - quantidade;
+        }
+
+
 
         public override string ToString()
         {

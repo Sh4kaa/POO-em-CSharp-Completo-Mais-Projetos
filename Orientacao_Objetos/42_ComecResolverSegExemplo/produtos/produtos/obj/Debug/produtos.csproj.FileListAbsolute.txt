@@ -5,3 +5,10 @@ H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverS
 H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.csproj.CoreCompileInputs.cache
 H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.exe
 H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\bin\Debug\produtos.exe.config
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\bin\Debug\produtos.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\bin\Debug\produtos.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.pdb
