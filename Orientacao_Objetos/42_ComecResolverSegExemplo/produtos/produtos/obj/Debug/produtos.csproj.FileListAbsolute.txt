@@ -1,0 +1,7 @@
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\bin\Debug\produtos.exe.config
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\bin\Debug\produtos.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\bin\Debug\produtos.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.csproj.CoreCompileInputs.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\42_ComecResolverSegExemplo\produtos\produtos\obj\Debug\produtos.pdb
