@@ -1,0 +1,7 @@
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Exercicioretangulo\Exercicioretangulo\bin\Debug\Exercicioretangulo.exe.config
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Exercicioretangulo\Exercicioretangulo\bin\Debug\Exercicioretangulo.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Exercicioretangulo\Exercicioretangulo\bin\Debug\Exercicioretangulo.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Exercicioretangulo\Exercicioretangulo\obj\Debug\Exercicioretangulo.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Exercicioretangulo\Exercicioretangulo\obj\Debug\Exercicioretangulo.csproj.CoreCompileInputs.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Exercicioretangulo\Exercicioretangulo\obj\Debug\Exercicioretangulo.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Exercicioretangulo\Exercicioretangulo\obj\Debug\Exercicioretangulo.pdb
