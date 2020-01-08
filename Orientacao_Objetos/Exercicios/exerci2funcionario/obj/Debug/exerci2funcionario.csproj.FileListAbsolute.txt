@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\exerci2funcionario\bin\Debug\exerci2funcionario.exe.config
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\exerci2funcionario\bin\Debug\exerci2funcionario.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\exerci2funcionario\bin\Debug\exerci2funcionario.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\exerci2funcionario\obj\Debug\exerci2funcionario.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\exerci2funcionario\obj\Debug\exerci2funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\exerci2funcionario\obj\Debug\exerci2funcionario.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\exerci2funcionario\obj\Debug\exerci2funcionario.pdb
