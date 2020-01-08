@@ -19,7 +19,7 @@ namespace Exercicioretangulo
 
         public double Diagonal()
         {
-            return Math.Sqrt(Largura * Largura + Altura * Altura); // formula teorema de pitagoras( digonal é o mesmo que RAIZ QUADRADA DE (catetos²))
+            return Math.Sqrt(Largura * Largura + Altura * Altura); // formula teorema de pitagoras( digonal é o mesmo que a raiz quadrada da soma dos catetos ao quadrado "d²= raiz b²+ h²" )
         }
     }
 }
