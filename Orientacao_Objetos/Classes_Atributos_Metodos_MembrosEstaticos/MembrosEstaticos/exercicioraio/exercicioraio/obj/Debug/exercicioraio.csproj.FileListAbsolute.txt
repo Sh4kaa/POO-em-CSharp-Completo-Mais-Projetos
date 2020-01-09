@@ -1,0 +1,7 @@
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\bin\Debug\exercicioraio.exe.config
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\bin\Debug\exercicioraio.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\bin\Debug\exercicioraio.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.csproj.CoreCompileInputs.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.pdb
