@@ -5,3 +5,10 @@ H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos
 H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.csproj.CoreCompileInputs.cache
 H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.exe
 H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\obj\Debug\exercicioraio.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\bin\Debug\exercicioraio.exe.config
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\bin\Debug\exercicioraio.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\MembrosEstaticos\exercicioraio\exercicioraio\bin\Debug\exercicioraio.pdb
