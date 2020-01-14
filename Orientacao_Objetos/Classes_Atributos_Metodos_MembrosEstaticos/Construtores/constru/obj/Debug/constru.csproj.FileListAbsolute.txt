@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\Construtores\constru\bin\Debug\constru.exe.config
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\Construtores\constru\bin\Debug\constru.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\Construtores\constru\bin\Debug\constru.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\Construtores\constru\obj\Debug\constru.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\Construtores\constru\obj\Debug\constru.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\Construtores\constru\obj\Debug\constru.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Classes_Atributos_Metodos_MembrosEstaticos\Construtores\constru\obj\Debug\constru.pdb
