@@ -1,0 +1,6 @@
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ConstruThisSobrecargaEncapsulamento\sobrecarga\produtos2\produtos2\obj\Debug\produtos2.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ConstruThisSobrecargaEncapsulamento\sobrecarga\produtos2\produtos2\bin\Debug\produtos2.exe.config
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ConstruThisSobrecargaEncapsulamento\sobrecarga\produtos2\produtos2\bin\Debug\produtos2.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ConstruThisSobrecargaEncapsulamento\sobrecarga\produtos2\produtos2\bin\Debug\produtos2.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ConstruThisSobrecargaEncapsulamento\sobrecarga\produtos2\produtos2\obj\Debug\produtos2.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ConstruThisSobrecargaEncapsulamento\sobrecarga\produtos2\produtos2\obj\Debug\produtos2.pdb
