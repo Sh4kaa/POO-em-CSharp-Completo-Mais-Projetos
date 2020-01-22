@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

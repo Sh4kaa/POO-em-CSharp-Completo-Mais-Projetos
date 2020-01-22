@@ -11,8 +11,12 @@ namespace Encapsulamento
         static void Main(string[] args)
         {
             Produto p = new Produto("TV", 500.00, 10);
+            
+            p.SetNome("T");
 
-            p.Quantidade = 15;
+            Console.WriteLine(p.GetNome());
+            Console.WriteLine(p.GetPreco());
+
 
         }
     }

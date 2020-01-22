@@ -24,7 +24,31 @@ namespace Encapsulamento
             _preco = quantidade;
         }                
 
+        //gets
+        public string GetNome()
+        {
+            return _nome;
+        }
+        public double GetPreco()
+        {
+            return _preco;
+        }
 
+        public int GetQuantidade()
+        {
+            return _quantidade;
+        }
+
+        //sets
+        public void SetNome(string nome)
+        {
+            if(nome != null && nome.Length > 1)
+            {
+                _nome = nome;
+            }
+            
+        } 
+        // metodos
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;
@@ -40,7 +64,8 @@ namespace Encapsulamento
             _quantidade -= quantidade;
         }
 
-
+        /* utilizar "return" apenas quando utilizarmos paramentros da classe
+         quando tem parametros fora da classe naõ precisa de return utiliza metodo void*/
 
         public override string ToString()
         {
