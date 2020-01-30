@@ -1,0 +1,6 @@
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Properties\properties\bin\Debug\properties.exe.config
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Properties\properties\bin\Debug\properties.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Properties\properties\bin\Debug\properties.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Properties\properties\obj\Debug\properties.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Properties\properties\obj\Debug\properties.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Properties\properties\obj\Debug\properties.pdb

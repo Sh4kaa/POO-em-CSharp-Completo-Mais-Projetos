@@ -22,30 +22,42 @@ namespace properties
             _quantidade = quantidade;
         }
 
-        //gets(metodo)
-        public string GetNome()
+        //gets sets (metodo)
+        // properties
+        public string Nome
         {
-            return _nome;
-        }
-
-        public void SetNome(string nome)
-        {
-            if (nome != null && nome.Length > 1)
+            get
             {
-                _nome = nome;
+                return _nome;
+            }
+            set
+            {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
             }
         }
 
-
-        
-        public double GetPreco()
+        //properties preco
+        public double Preco
         {
-            return _preco;
+
+            get
+            {
+                return _preco;
+            }
+
         }
 
-        public int GetQuantidade()
+        //properties quantidade
+
+        public int Quantidade
         {
-            return _quantidade;
+            get
+            {
+                return _quantidade;
+            }
         }
 
         //métodos

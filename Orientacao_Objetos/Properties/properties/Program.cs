@@ -7,14 +7,14 @@ namespace properties
     {
         static void Main(string[] args)
         {
-            Produto p = new Produto("TV", 500.00, 10);
+            Produto p = new Produto("TV", 500.00, 10); // VALOR DEFAULT
 
 
-            p.SetNome("TV");
+            p.Nome = "T";
 
-            Console.WriteLine(p.GetNome());
-            Console.WriteLine(p.GetPreco());
-            Console.WriteLine(p.GetQuantidade());
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
+            
         }
     }
 }
