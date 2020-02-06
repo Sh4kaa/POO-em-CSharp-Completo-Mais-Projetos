@@ -1,0 +1,6 @@
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Conta\ContaBanco\bin\Debug\ContaBanco.exe.config
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Conta\ContaBanco\bin\Debug\ContaBanco.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Conta\ContaBanco\bin\Debug\ContaBanco.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Conta\ContaBanco\obj\Debug\ContaBanco.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Conta\ContaBanco\obj\Debug\ContaBanco.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Exercicios\Conta\ContaBanco\obj\Debug\ContaBanco.pdb
