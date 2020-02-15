@@ -15,27 +15,30 @@ namespace banco2
             Titular = titular;
         }
 
-        public ContaBancaria(int numero, string titular, double saldo): this (numero, titular)
+        public ContaBancaria(int numero, string titular, double saldo) : this(numero, titular)
         {
             Saldo = saldo;
         }
 
-        public void Deposito(double deposito)
+        public void Deposito(double quantia)
         {
-            Saldo += deposito;
+            Saldo += quantia;
         }
 
-        public double Saque(double quantia)
+        public void Saque(double quantia)
         {
-           return Saldo -= quantia + 5.00;
+            Saldo -= quantia + 5.0;
         }
 
         public override string ToString()
         {
-            return "Conta " + Numero + ", " + "Titular: " + Titular + ", " + "Saldo " + Saldo.ToString("f2",
-                CultureInfo.InvariantCulture);
+            return "Conta "
+                + Numero
+                + ", Titular: "
+                + Titular
+                + ", Saldo: $ "
+                + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+
         }
-
-
     }
 }

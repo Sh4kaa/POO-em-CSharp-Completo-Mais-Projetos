@@ -5,3 +5,9 @@ C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao
 C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\obj\Debug\banco2.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\obj\Debug\banco2.exe
 C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\obj\Debug\banco2.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\bin\Debug\banco2.exe.config
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\bin\Debug\banco2.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\bin\Debug\banco2.pdb
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\obj\Debug\banco2.csprojAssemblyReference.cache
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\obj\Debug\banco2.exe
+H:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\banco2\obj\Debug\banco2.pdb
