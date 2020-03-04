@@ -1,0 +1,7 @@
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ListasFixacao\funcionario\bin\Debug\funcionario.exe.config
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ListasFixacao\funcionario\bin\Debug\funcionario.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ListasFixacao\funcionario\bin\Debug\funcionario.pdb
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ListasFixacao\funcionario\obj\Debug\funcionario.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ListasFixacao\funcionario\obj\Debug\funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ListasFixacao\funcionario\obj\Debug\funcionario.exe
+C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ListasFixacao\funcionario\obj\Debug\funcionario.pdb
