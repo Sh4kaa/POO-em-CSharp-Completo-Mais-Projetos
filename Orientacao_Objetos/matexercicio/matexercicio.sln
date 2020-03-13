@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matexercicio", "matexercicio.csproj", "{DD255F61-4B8A-44FA-9A65-EFD19ACE59CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD255F61-4B8A-44FA-9A65-EFD19ACE59CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD255F61-4B8A-44FA-9A65-EFD19ACE59CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD255F61-4B8A-44FA-9A65-EFD19ACE59CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD255F61-4B8A-44FA-9A65-EFD19ACE59CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453FE666-B1BC-4497-8DEB-AFE541E8387B}
+	EndGlobalSection
+EndGlobal
