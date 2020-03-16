@@ -5,3 +5,9 @@ C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao
 C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\obj\Debug\matexercicio.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\obj\Debug\matexercicio.exe
 C:\Users\Administrador\Documents\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\obj\Debug\matexercicio.pdb
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\obj\Debug\matexercicio.csprojAssemblyReference.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\obj\Debug\matexercicio.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\obj\Debug\matexercicio.pdb
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\bin\Debug\matexercicio.exe.config
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\bin\Debug\matexercicio.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\matexercicio\bin\Debug\matexercicio.pdb
