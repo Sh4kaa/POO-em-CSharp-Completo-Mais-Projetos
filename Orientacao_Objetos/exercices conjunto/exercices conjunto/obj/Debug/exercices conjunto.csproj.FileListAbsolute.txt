@@ -1,0 +1,7 @@
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\exercices conjunto\exercices conjunto\bin\Debug\exercices conjunto.exe.config
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\exercices conjunto\exercices conjunto\bin\Debug\exercices conjunto.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\exercices conjunto\exercices conjunto\bin\Debug\exercices conjunto.pdb
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\exercices conjunto\exercices conjunto\obj\Debug\exercices conjunto.csprojAssemblyReference.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\exercices conjunto\exercices conjunto\obj\Debug\exercices conjunto.csproj.CoreCompileInputs.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\exercices conjunto\exercices conjunto\obj\Debug\exercices conjunto.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\exercices conjunto\exercices conjunto\obj\Debug\exercices conjunto.pdb
