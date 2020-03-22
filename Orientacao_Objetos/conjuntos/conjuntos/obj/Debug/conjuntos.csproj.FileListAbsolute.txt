@@ -1,0 +1,7 @@
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\conjuntos\conjuntos\bin\Debug\conjuntos.exe.config
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\conjuntos\conjuntos\bin\Debug\conjuntos.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\conjuntos\conjuntos\bin\Debug\conjuntos.pdb
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\conjuntos\conjuntos\obj\Debug\conjuntos.csprojAssemblyReference.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\conjuntos\conjuntos\obj\Debug\conjuntos.csproj.CoreCompileInputs.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\conjuntos\conjuntos\obj\Debug\conjuntos.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\conjuntos\conjuntos\obj\Debug\conjuntos.pdb
