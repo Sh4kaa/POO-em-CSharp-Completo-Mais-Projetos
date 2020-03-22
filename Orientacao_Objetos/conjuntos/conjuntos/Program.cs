@@ -28,7 +28,8 @@ namespace conjuntos
 
             /*A.UnionWith(B); vai uni conjunto A com B, tirando os repetidos*/
 
-            A.IntersectWith(B);
+            /*A.IntersectWith(B); intersecção: vai mostrar em evidencia oq os conjuntos tem em comum,
+             * porque ambos se repetem nos conjuntos A e B*/
 
             foreach(int x in A)
             {
