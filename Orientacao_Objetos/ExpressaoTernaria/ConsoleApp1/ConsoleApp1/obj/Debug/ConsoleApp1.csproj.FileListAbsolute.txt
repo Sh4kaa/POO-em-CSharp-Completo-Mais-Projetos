@@ -1,0 +1,7 @@
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ExpressaoTernaria\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ExpressaoTernaria\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ExpressaoTernaria\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ExpressaoTernaria\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ExpressaoTernaria\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ExpressaoTernaria\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\ExpressaoTernaria\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
