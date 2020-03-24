@@ -1,0 +1,7 @@
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Switch_Case\casos\casos\bin\Debug\casos.exe.config
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Switch_Case\casos\casos\bin\Debug\casos.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Switch_Case\casos\casos\bin\Debug\casos.pdb
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Switch_Case\casos\casos\obj\Debug\casos.csprojAssemblyReference.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Switch_Case\casos\casos\obj\Debug\casos.csproj.CoreCompileInputs.cache
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Switch_Case\casos\casos\obj\Debug\casos.exe
+G:\Dev\POO-em-CSharp-Completo-Mais-Projetos\Orientacao_Objetos\Switch_Case\casos\casos\obj\Debug\casos.pdb
