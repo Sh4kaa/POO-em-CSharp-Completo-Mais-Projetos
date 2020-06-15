@@ -7,12 +7,33 @@ namespace Heranca
     {
         static void Main(string[] args)
         {
-            BusinessAccount account = new BusinessAccount(8010, "Dario", 100.0, 500.0);
+            Account acc = new Account(1001, "Alex", 0.0);
+            BusinessAccount bacc = new BusinessAccount(1002, "MAria", 0.0, 500.0);
 
-            Console.WriteLine(account.Balance);
+            //UPCASTING
+            Account acc1 = bacc;
+            Account acc2 = new BusinessAccount(100, "Bob", 0.0, 200.0);
+            Account acc3 = new SavingsAccount(1004, "Ana", 0.0, 0.01);
 
-            // account.Balance = 100.0; naõ é possivel acessar pois o atributo está protegido pelo modificador de acesso protecd
-            // que só pode ser ACESSADO ou alterado PELA SUBCLASSE
+            // DOWNCASTING
+
+            BusinessAccount acc4 = (BusinessAccount)acc2;
+            acc4.Loan(100.0);
+           // BusinessAccount acc5 = (BusinessAccount)acc3;
+            if(acc3 is BusinessAccount) // se acc3 é uma estancia de BusinessAccount
+            {
+                // BusinessAccount acc5 = (BusinessAccount)acc3; casting
+                BusinessAccount acc5 = acc3 as BusinessAccount; // conversão alternativa
+                acc5.Loan(200.0);
+                Console.WriteLine("Loan!");
+            }
+            if(acc3 is SavingsAccount)
+            {
+               // SavingsAccount acc5 = (SavingsAccount)acc3;
+                SavingsAccount acc5 = acc3 as SavingsAccount; // conversão alternativa
+                acc5.UpdateBalance();
+                Console.WriteLine("Update!");
+            }
         }
     }
 }
