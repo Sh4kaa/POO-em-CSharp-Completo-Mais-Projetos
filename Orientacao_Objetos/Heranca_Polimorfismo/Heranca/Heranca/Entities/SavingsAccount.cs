@@ -24,5 +24,12 @@ namespace Heranca.Entities
             Balance += Balance * InterestRate;
         }
 
+        public override void WithDraw(double amount) // sobrescrevendo o método de saque da superclasse(Account)
+        {
+            // Balance -= amount; // sem desconto
+            base.WithDraw(amount); // saque com desconto de 5.0
+            Balance -= 2.0; // saque adicionando mais 2.0 no total 7
+        }
+
     }
 }
