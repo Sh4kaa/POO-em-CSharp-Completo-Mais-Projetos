@@ -12,22 +12,21 @@ namespace blocousing
     {
         static void Main(string[] args)
         {
-            string path = @"c:\temp\filex.txt";
+            string path = @"c:\temp\file1.txt";
             try
             {
-                using (FileStream fs = new FileStream(path, FileMode.Open)) // estanciando, passando o path, abrindo o arquivo
+
+                using (StreamReader sr = File.OpenText(path)) // estanciando e passando "fs" de parametro
                 {
-                    using (StreamReader sr = new StreamReader(fs)) // estanciando e passando "fs" de parametro
+                    while (!sr.EndOfStream) // enquando a stream não chegar no final faça isso
                     {
-                        while (!sr.EndOfStream) // enquando a stream não chegar no final faça isso
-                        {
-                            string line = sr.ReadLine();
-                            Console.WriteLine(line);
-                        }
+                        string line = sr.ReadLine();
+                        Console.WriteLine(line);
                     }
                 }
+
             }
-            catch(IOException e)
+            catch (IOException e)
             {
                 Console.WriteLine("An error occurred");
                 Console.WriteLine(e.Message);
