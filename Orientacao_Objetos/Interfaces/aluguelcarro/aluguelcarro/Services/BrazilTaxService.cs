@@ -1,7 +1,7 @@
 ﻿
 namespace aluguelcarro.Services
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxService // obs:isso não é herança, é uma realização de interface
     {
         public double Tax(double amount)
         {
