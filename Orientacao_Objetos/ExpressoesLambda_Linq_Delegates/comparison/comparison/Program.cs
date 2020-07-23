@@ -15,7 +15,7 @@ namespace comparison
             list.Add(new Product("Tablet", 450.00));
 
 
-            list.Sort((p1, p2) => p1.Name.ToUpper().CompareTo(p2.Name.ToUpper())); // expressão lambda jeito 1*/
+            list.Sort(ComparisonProd); // modo 2 passanos referencia de método
             
 
             foreach(Product prod in list)
@@ -23,6 +23,10 @@ namespace comparison
                 Console.WriteLine(prod);
             }
         }
-        
+        static int ComparisonProd(Product p1, Product p2)
+        {
+            return p1.Name.ToUpper().CompareTo(p2.Name.ToUpper());
+        }
+
     }
 }
