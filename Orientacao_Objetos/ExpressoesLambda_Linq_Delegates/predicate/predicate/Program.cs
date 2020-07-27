@@ -15,8 +15,9 @@ namespace predicate
             list.Add(new Product("Mouse", 50.00));
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
-
-            List<string> result = list.Select(NameUpper).ToList(); // convertendo para list o Inumerable
+            Func<Product, string> func = NameUpper;
+            
+            List<string> result = list.Select(func).ToList(); // um segunda lista recebendo o obj func que recebeu uma referencia de uma função 
 
             foreach(string s in result)
             {
