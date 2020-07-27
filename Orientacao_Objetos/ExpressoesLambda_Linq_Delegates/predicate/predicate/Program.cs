@@ -15,7 +15,7 @@ namespace predicate
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
-            list.RemoveAll(p => p.Price >= 100.0);
+            list.ForEach(p => { p.Price += p.Price * 0.1; });
             foreach (Product p in list)
             {
                 Console.WriteLine(p);
