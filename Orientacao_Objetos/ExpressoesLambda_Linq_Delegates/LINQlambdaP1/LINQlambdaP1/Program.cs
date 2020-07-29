@@ -11,7 +11,7 @@ namespace LINQlambdaP1
         static void Print<T>(string message, IEnumerable<T> collection)
         {
             Console.WriteLine(message);
-            foreach(T obj in collection)
+            foreach (T obj in collection)
             {
                 Console.WriteLine(obj);
             }
@@ -69,6 +69,33 @@ namespace LINQlambdaP1
             var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
             Console.WriteLine("Single or default test2: " + r9);
             Console.WriteLine();
+
+            var r10 = products.Max(p => p.Price); //maior preço
+            Console.WriteLine("Max price: " + r10);
+            var r11 = products.Min(p => p.Price); // menor preço
+            Console.WriteLine("Min price: " + r11);
+            var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price); // filtrando a categoria 1 e somar os preços dessa categoria
+            Console.WriteLine("Category 1 Sum prices: " + r12);
+            var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price); // filtrando a categoria 1 e pegar a media dos preços dessa categoria
+            Console.WriteLine("Category 1 Average prices: " + r13);
+            var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            Console.WriteLine("Category 5 Average prices: " + r14);
+            var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y); // filtrando a categoria 1  selecionando o preço agregando e personalizando uma, soma personalizada
+            Console.WriteLine("Category 1 aggregate sum: " + r15);
+            Console.WriteLine();
+
+
+            var r16 = products.GroupBy(p => p.Category);
+
+            foreach (IGrouping<Category, Product> group in r16)
+            {
+                Console.WriteLine("Category" + group.Key.Name);
+                foreach(Product p in group)
+                {
+                    Console.WriteLine(p);
+                }
+                Console.WriteLine();
+            }
 
 
 
