@@ -27,10 +27,10 @@ namespace exerciResolvido
                 }
             }
 
-            var avg = list.Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            var avg = list.Select(p => p.Price).DefaultIfEmpty(0.0).Average(); 
             Console.WriteLine("Average price = " + avg.ToString("F2", CultureInfo.InvariantCulture));
 
-            var names = list.Where(p => p.Price < avg).OrderByDescending(p => p.Name).Select(p => p.Name);
+            var names = list.Where(p => p.Price < avg).OrderByDescending(p => p.Name).Select(p => p.Name); // select serve apenas para pegar apenas o nome e não o objeto inteiro
             foreach (string name in names)
             {
                 Console.WriteLine(name);
